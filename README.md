@@ -2,6 +2,8 @@
 
 (name credits to Qwerew19191 in an online presence or legally named Alex Cant)
 
+Source Code will be uploaded soon.
+
 IMPORTANT NOTE: THIS IS ALL MADE USING PROPRIETARY SOFTWARE THAT IS NOT OWNED BY ME RATHER AN ENTITY OR INDIVIDUAL, THIS MAY INCLUDE SOME LOST MEDIA I HAVE LEFT IN MY ARCHIVES YOU ARE MORE THAN WELCOME TO TAKE THIS LOST MEDIA AND UPLOAD IT SOMEWHERE ELSE, I WOULD PREFER THAT YOU WOULD CREDIT ME IF POSSIBLE.
 
 FunTickleTime98 is a collection of essentials and fun (some nostalgic tools) needed for running Windows 98 in 2022.
