@@ -25,7 +25,7 @@ Tutorial for PCem installation:
 
 ![image](https://user-images.githubusercontent.com/58113779/154090308-577b8d02-ca63-426c-aff3-0bdf5ae3623b.png)
 
-6. Select the FunTickleTime95 .iso file and then click "Open"
+6. Select the FunTickleTime98 .iso file and then click "Open"
 
 7. Open your File Explorer inside of Windows 98
 
